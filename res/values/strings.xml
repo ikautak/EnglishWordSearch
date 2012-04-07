@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">English Word Search</string>
+
+    <string name="menu_setting">設定</string>
+
+    <string name="setting_title">English Word Search設定</string>
+
+    <string name="auto_ime_checkbox">自動でキーボードを表示</string>
+    <string name="auto_ime_checkbox_summary">起動時に自動でキーボードを表示します</string>
+
+    <string name="voice_english_checkbox">音声認識に英語を使用</string>
+    <string name="voice_english_checkbox_summary">音声認識に日本語ではなく英語を使用します</string>
+</resources>
