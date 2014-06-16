@@ -133,6 +133,7 @@ public class EnglishWordSearchActivity extends Activity {
     public boolean onOptionsItemSelected(MenuItem item) {
         boolean ret = false;
 
+        Log.d(TAG, "item.getItemId" + item.getItemId());
         switch (item.getItemId()) {
         case MENU_ID_PREFERENCE:
             startPreference();
